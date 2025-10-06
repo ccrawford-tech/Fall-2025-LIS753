@@ -25,11 +25,12 @@ ul li a {
 ul li a: hoover{
   text-decoration: underline;
   figure.main-image {
-    background: Paleviolered;
-    border: Mediumvioletred;
+    background: PaleVioletRed;
+    border: MediumVioletRed;
     color# ffffff;
     }
   figure.section-image {
+
 
 
 
