@@ -18,9 +18,15 @@ figure.section-image.even{
   margin-right: 20px
 }
 
+p img {
+float: right;
+  max-width: 60%
+  margin-left: 20px
+  margin-bottom: 32px
 
 
       
+
 
 
 
