@@ -1,6 +1,11 @@
 
 }
 h1#site-title
+font-size 72px;
+letter-spacing - 3px
+margin-top 0;
+margin-bottom: .125em
+text-align: center;
 {color: blue;
   font-family: verdana;
 
@@ -21,3 +26,4 @@ ul li a: hoover{
   text-decoration: underline;
 
 }
+
