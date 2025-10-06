@@ -1,8 +1,12 @@
-h1 {
-  color: blue;
-  font-family: verdana;
-}
 
+}
+h1#site-title
+{color: blue;
+  font-family: verdana;
+
+
+  h1#article-title
+ font-size 48px;
 p {
   background: dbffdf;
 }
@@ -15,4 +19,5 @@ ul li a {
 }
 ul li a: hoover{
   text-decoration: underline;
+
 }
