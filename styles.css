@@ -1,35 +1,13 @@
-
+figure.main-image {
+background: PaleVioletRed
+border: MediumVioletRed
+color: #ffffff;
 }
-h1#site-title {
-font-size 72px;
-letter-spacing - 3px
-margin-top 0;
-margin-bottom: .125em
-text-align: center;
-{color: blue;
-  font-family: verdana;
+
+figure.section-image
 
 
-  h1#article-title
- font-size 48px;
-p {
-  background: dbffdf;
-}
-a {
-  font-weight: bold;
-  color:green
-}
-ul li a {
-  text-decoration: none
-}
-ul li a: hoover{
-  text-decoration: underline;
-  figure.main-image {
-    background: PaleVioletRed;
-    border: MediumVioletRed;
-    color: #ffffff;
-    }
-  figure.section-image {
+
 
 
 
