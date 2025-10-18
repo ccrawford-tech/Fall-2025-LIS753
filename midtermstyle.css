@@ -1,6 +1,10 @@
 figure.section-image {
     float: right;
-    margin-left: 20px;
+   gr margin-left: 20px;
     margin-bottom: 32px;
     max-width: 80px;
+}
+image {
+    width 300px;
+    height200px;
 }
