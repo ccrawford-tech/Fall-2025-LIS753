@@ -1,10 +1,7 @@
 figure.section-image {
-    float: right;
-   gr margin-left: 20px;
-    margin-bottom: 32px;
-    max-width: 80px;
-}
-figure.section-image {Picture of Books
-    width 300px;
-    height200px;
-}
+float: right;
+margin-left: 20px;
+margin-bottom: 32px;
+max-width: 80px;
+width 100%;
+    }
