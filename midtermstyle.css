@@ -1,11 +1,11 @@
-body {background-color: #f0f0f0; 
+body {background-color: powderblue; 
 }
 figure.section-image {
 float: right;
 margin-left: 20px;
 margin-bottom: 32px;
-max-width: 50px;
-width: 50%;
+max-width: 100px;
+width: 100%;
 padding: 10px;
 }
 #my-footer {
