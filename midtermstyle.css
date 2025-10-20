@@ -1,4 +1,7 @@
-body figure.section-image {
+body 
+{background-color: brown;
+}
+figure.section-image {
 float: right;
 margin-left: 20px;
 margin-bottom: 32px;
@@ -7,9 +10,6 @@ width: 50%;
 padding: 10px;
 }
 #my-footer {
-body  { 
-background-color: brown;
-}
 color: white;
 }
 #my-footer-image {
